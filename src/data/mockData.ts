@@ -108,11 +108,11 @@ export const PRICING_PLANS: PricingPlan[] = [
 
 // Logos fictícias de clientes para a seção Clientes
 export const CLIENT_LOGOS: ClientLogo[] = [
-  { id: '1', name: 'TechVoice', logoUrl: 'https://placehold.co/180x60/1f2937/ffffff?text=TechVoice', category: 'Fintech' },
-  { id: '2', name: 'AudioData', logoUrl: 'https://placehold.co/180x60/1f2937/ffffff?text=AudioData', category: 'Healthtech' },
-  { id: '3', name: 'StreamSpeak', logoUrl: 'https://placehold.co/180x60/1f2937/ffffff?text=StreamSpeak', category: 'Media' },
-  { id: '4', name: 'GlobalDial', logoUrl: 'https://placehold.co/180x60/1f2937/ffffff?text=GlobalDial', category: 'Telecom' },
-  { id: '5', name: 'OmniAI', logoUrl: 'https://placehold.co/180x60/1f2937/ffffff?text=OmniAI', category: 'Customer Care' },
+  { id: '1', name: 'VoiceCorp', logoUrl: 'https://placehold.co/180x60/0f172a/22c55e?text=VoiceCorp&font=montserrat', category: 'Enterprise' },
+  { id: '2', name: 'AudioMetrics', logoUrl: 'https://placehold.co/180x60/0f172a/38bdf8?text=AudioMetrics&font=montserrat', category: 'Analytics' },
+  { id: '3', name: 'StreamSpeak', logoUrl: 'https://placehold.co/180x60/0f172a/c084fc?text=StreamSpeak&font=montserrat', category: 'Streaming' },
+  { id: '4', name: 'GlobalDial', logoUrl: 'https://placehold.co/180x60/0f172a/fb7185?text=GlobalDial&font=montserrat', category: 'Telecom' },
+  { id: '5', name: 'OmniAI Voice', logoUrl: 'https://placehold.co/180x60/0f172a/4ade80?text=OmniAI+Voice&font=montserrat', category: 'Customer Care' },
 ];
 
 // Lista de países para o formulário de contato (Internacionalização do campo telefone/país)

@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Configuração de Scroll Suave global para os menus de navegação */
+html {
+  scroll-behavior: smooth;
+}

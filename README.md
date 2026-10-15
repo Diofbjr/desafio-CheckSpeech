@@ -56,8 +56,8 @@ A aplicação foi rigorosamente otimizada para atingir pontuações máximas em 
   <p>Resultados auditados via Google PageSpeed Insights</p>
   
   <p>
-    <img src="./assets/desktop-speed.png" alt="Relatório PageSpeed Desktop" width="48%" />
-    <img src="./assets/mobile-speed.png" alt="Relatório PageSpeed Mobile" width="48%" />
+    <img src="./src/assets/desktop-speed.png" alt="Relatório PageSpeed Desktop" width="48%" />
+    <img src="./src/assets/mobile-speed.png" alt="Relatório PageSpeed Mobile" width="48%" />
   </p>
 </div>
 

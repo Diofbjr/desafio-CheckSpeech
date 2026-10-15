@@ -19,6 +19,7 @@ A aplicação foi desenvolvida do zero utilizando uma stack moderna e altamente 
 - **[TypeScript](https://www.typescriptlang.org/)**: Tipagem estática rigorosa para garantia de contrato de dados (*Type Safety*) e manutenibilidade.
 - **[Tailwind CSS](https://tailwindcss.com/)**: Estilização utilitária moderna focada em design responsivo e performance visual.
 - **[Lucide React](https://lucide.dev/)**: Biblioteca leve e consistente de ícones vetoriais.
+- **[Vitest & React Testing Library](https://vitest.dev/)**: Suíte automatizada de testes unitários e de integração.
 
 ---
 
@@ -42,6 +43,23 @@ A aplicação foi desenvolvida do zero utilizando uma stack moderna e altamente 
 ### 🌟 Destaques & Diferenciais (Itens Bônus)
 - 🌐 **Suporte Multilíngue (PT-BR / EN):** Chaveador de idioma no menu superior com atualização instantânea da interface.
 - ⚡ **Otimização de Core Web Vitals:** Arquitetura limpa sem bibliotecas de estilização pesadas e uso de *lazy state initialization* no React para evitar renderizações em cascata (*cascading renders*).
+- 🧪 **Testes Automatizados:** Suíte completa de testes cobrindo formulário, LGPD, Captcha, componente dinâmico, toggle de preços e internacionalização.
+
+---
+
+## ⚡ Desempenho e Core Web Vitals (Google PageSpeed)
+
+A aplicação foi rigorosamente otimizada para atingir pontuações máximas em desempenho, acessibilidade, boas práticas e SEO nas versões **Desktop** e **Mobile**.
+
+<div align="center">
+  <h3>Versão Desktop & Mobile</h3>
+  <p>Resultados auditados via Google PageSpeed Insights</p>
+  
+  <p>
+    <img src="./assets/desktop-speed.png" alt="Relatório PageSpeed Desktop" width="48%" />
+    <img src="./assets/mobile-speed.png" alt="Relatório PageSpeed Mobile" width="48%" />
+  </p>
+</div>
 
 ---
 
